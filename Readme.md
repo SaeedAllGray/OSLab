@@ -1,1 +1,1 @@
-# OS Laboratory Homeworks
+# Operating System Laboratory Homeworks
