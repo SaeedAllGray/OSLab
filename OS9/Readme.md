@@ -1,23 +1,28 @@
 # List of packaged I'd used:
 
-\usepackage{amsmath}
+in order to add mathematical formulas
 
-    in order to add mathematical formulas
+    \usepackage{amsmath}
     
-\usepackage{graphicx}
+in order to browse a photo 
+ 
+    \usepackage{graphicx}
 
-     in order to browse a photo 
-\usepackage{listings}
 
-    in order to print C++ code
+
+in order to print C++ code
     
-\usepackage{setspace}
-
-    in order to add space between materials
+    \usepackage{listings}
     
-\usepackage{xcolor}
+in order to add space between materials
+    
+    \usepackage{setspace}
+    
+in order to colorize    
+    
+    \usepackage{xcolor}
 
-     in order to colorize
+
      
      
      
