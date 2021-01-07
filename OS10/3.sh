@@ -1,6 +1,15 @@
 #!/bin/bash
-for i in *.jpg
-var a = i;
+
+i=1
+cd $1
+for img in *.jpg
 do
-    mv -- "$i" "$a"
+    mv $img $i.jpg
+    let i++
 done
+for img in *.png
+do
+    mv $img $i.png
+    let i++
+done
+
